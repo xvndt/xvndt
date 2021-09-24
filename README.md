@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xvndt
 - 🌱 I’m currently learning DAM
-- 💞️ I’m looking to collaborate with my classmates
+- 💻 I’m looking to collaborate with my classmates
 - 📫 Don't reach me
 
 <!---
