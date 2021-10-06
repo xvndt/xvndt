@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xvndt
-- 🌱 I’m currently learning DAM
-- 💻 I’m looking to collaborate with my classmates
+- 👋 Hi, I’m @xvndt or Law
+- 🌱 I’m currently studyng cross-platform application development
+- 💻 Looking to collaborate with other programmers
 
 <!---
 xvndt/xvndt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
