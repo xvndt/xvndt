@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xvndt or Law
-- 🌱 I’m currently studyng cross-platform application development
+- 🌱 Junior software developer
 - 💻 Looking to collaborate with other programmers
 
 <!---
